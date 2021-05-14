@@ -1,0 +1,23 @@
+!gen/__init__.py
+
+# Cache
+latspy/__pycache__
+
+*.pyc
+
+# vim stuff
+*.swp
+*.swo
+
+# OSX
+.DS_Store
+
+# virtualenv
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
+
+# setuptools
+*.egg-info/
