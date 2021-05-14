@@ -5,9 +5,10 @@ latspy/__pycache__
 
 *.pyc
 
-# vim stuff
+# Emacs/vim stuff
 *.swp
 *.swo
+*.temp
 
 # OSX
 .DS_Store
