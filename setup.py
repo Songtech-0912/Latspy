@@ -9,7 +9,7 @@ except FileNotFoundError:
 setup(
     name='latspy',
     version='0.1.0',
-    description='Latex to Sympy conversion',
+    description='Run LaTeX expressions live with sympy',
     long_description=long_description,
     maintainer='Songtech-0912',
     url='https://github.com/Songtech-0912/Latspy',
